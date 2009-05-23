@@ -2,8 +2,8 @@
 Loader=python
 Module=trailsave-gfxmonk
 IAge=2
-Name=Save without trailing spaces
-Description=Automatically strip all trailing whitespace before saving
+Name=Trim trailing spaces
+Description=Strip trailing whitespace before saving
 Authors=Tim Cuthbertson <tim3d.junk+gedit@gmail.com>, Osmo Salomaa <otsaloma@cc.hut.fi>
 Copyright=Copyright (C) Osmo Salomaa, Tim Cuthbertson
 Website=http://users.tkk.fi/~otsaloma/gedit
