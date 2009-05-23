@@ -1,7 +1,7 @@
 # gedit plugins
 
-To use these plugins, put all the files into `~/.gnome2/gedit/plugins`
-(you should create it if it doesn't already exist)
+To use a plugin, put each of its files into `~/.gnome2/gedit/plugins` -
+you should create this folder if it doesn't already exist.
 
 ## trailsave
 
