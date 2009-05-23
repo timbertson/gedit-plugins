@@ -81,3 +81,5 @@ class SaveWithoutTrailingSpacePlugin(gedit.Plugin):
 					itr.forward_char()
 					doc.delete(itr, line_end)
 					break
+				if itr.get_line_index() == 0:
+					break
