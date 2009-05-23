@@ -1,0 +1,8 @@
+[Gedit Plugin]
+Loader=python
+Module=copy-document-location
+IAge=2
+Name=Copy Document Location
+Description=Copy the location of the current document to the clipboard
+Authors=Tim Cuthbertson <tim3d.junk+gedit@gmail.com>
+Copyright=Copyright © 2009 Tim Cuthbertsion (distributed under the GPL)
